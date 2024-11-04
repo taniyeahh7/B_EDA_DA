@@ -2,3 +2,4 @@
 Taniya Ahmed
 
 Disease Detection
+- Univariate, Bivariate and Multi variate analysis
